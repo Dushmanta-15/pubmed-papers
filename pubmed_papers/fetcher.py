@@ -20,7 +20,7 @@ class PubMedFetcher:
     Class to fetch papers from PubMed API using Entrez.
     """
 
-    def __init__(self, email: str = "your.email@example.com", api_key: Optional[str] = None) -> None:
+    def __init__(self, email: str = "kdushmanta41@gmail.com", api_key: Optional[str] = None) -> None:
         """
         Initialize the PubMed fetcher.
 
