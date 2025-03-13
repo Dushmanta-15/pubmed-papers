@@ -54,7 +54,7 @@ def parse_args(args: Optional[List[str]] = None) -> argparse.Namespace:
     
     parser.add_argument(
         "-e", "--email",
-        default="your.email@example.com",
+        default="kdushmanta41@gmail.com",
         help="Email address for NCBI Entrez API (required by NCBI)"
     )
     
